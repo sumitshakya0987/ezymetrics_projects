@@ -93,6 +93,10 @@ cd react-dashboard
 Install dependencies:
 bash
 Copy code
+npm install chart.js react-chartjs-2
+npm install react-router-dom
+npm install react-csv jspdf jspdf-autotable
+
 npm install
 Start the development server:
 bash
